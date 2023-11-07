@@ -25,8 +25,6 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 Developed by: MOHAMED ATHIL B
 RegisterNumber:  212222230081
 
-
-
 import pandas as pd
 data=pd.read_csv("/content/Salary.csv")
 
